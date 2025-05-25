@@ -1,1 +1,31 @@
-# portal-de-noticias
+<p align="center">
+  📰 Portal de Notícias
+</p>
+
+<p align="center">
+Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src=".github/img/portal_de_noticias.png" width="60%">
+</p>
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+
+## Projeto
+
+Nesse projeto iremos desenvolver um portal de notícias para praticar o nosso conhecimento com o Grid!
